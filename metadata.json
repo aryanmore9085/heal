@@ -1,0 +1,6 @@
+{
+  "name": "BloodLink Emergency Network",
+  "description": "Rapid response clinical blood matching, real-time emergency dispatch, and cold-chain transit tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
